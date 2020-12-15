@@ -1,0 +1,23 @@
+.wrapper{
+	margin-top:80px;
+}
+.top:after{ content:""; clear:both; display:block; }
+.top{
+	width:140px;
+	margin:0 auto;
+}
+.top-post{
+	float:left;
+}
+.top-upload{
+	float:right;
+}
+.top-upload a,.top-post a{
+	color: black;
+	text-decoration: none;
+	font-size: 1.2rem;
+}
+.container{
+	width:1020px;
+	margin:50px auto 0 auto;
+}
